@@ -3,7 +3,11 @@ h3 {
 }
 
 img {
-
+   display: block;
+   padding: 5px;
+   width: 350px;
+   height: 350px;
+   object-fit: contain;
 }
 
 .photos {

@@ -1,0 +1,11 @@
+div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: palevioletred;
+}
+h3 {
+    text-decoration: underline ;
+}
+li {
+    font-style: italic;
+}
